@@ -1,0 +1,5 @@
+data/raw/*.XPT
+
+__pycache__/
+*.pyc
+.venv/
