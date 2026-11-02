@@ -1,0 +1,32 @@
+{
+  "date": "20261004_171009_221598",
+  "systeme": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.14",
+  "processeur": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "cpu_logiques": 16,
+  "workers_dask": 4,
+  "scheduler_dask": "threads",
+  "versions": {
+    "pandas": "3.0.2",
+    "dask": "2026.8.0",
+    "pyarrow": "24.0.0",
+    "numpy": "2.4.3",
+    "matplotlib": "3.10.8"
+  },
+  "source": "c:\\Users\\hugov\\Documents\\EPITA\\Santé\\CHP\\projet\\data\\processed\\brfss_2024_brut.parquet",
+  "source_octets": 35456946,
+  "source_mtime": 1791126559.9460099,
+  "lignes_source": 457670,
+  "facteurs": [
+    0.1,
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    3.0
+  ],
+  "repetitions": 5,
+  "graine": 42,
+  "lignes_par_groupe": 50000,
+  "mesure": "lecture + calcul + matérialisation ; chauffe ; cache OS non vidé"
+}

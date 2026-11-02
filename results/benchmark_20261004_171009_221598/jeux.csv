@@ -1,0 +1,7 @@
+facteur,n_lignes,chemin,taille_octets,groupes_parquet
+0.1,45767,c:\Users\hugov\Documents\EPITA\Santé\CHP\projet\data\processed\benchmark_20261004_171009_221598\brfss_10pct.parquet,395579,1
+0.25,114417,c:\Users\hugov\Documents\EPITA\Santé\CHP\projet\data\processed\benchmark_20261004_171009_221598\brfss_25pct.parquet,986226,3
+0.5,228835,c:\Users\hugov\Documents\EPITA\Santé\CHP\projet\data\processed\benchmark_20261004_171009_221598\brfss_50pct.parquet,1968213,5
+1.0,457670,c:\Users\hugov\Documents\EPITA\Santé\CHP\projet\data\processed\benchmark_20261004_171009_221598\brfss_100pct.parquet,3936292,10
+2.0,915340,c:\Users\hugov\Documents\EPITA\Santé\CHP\projet\data\processed\benchmark_20261004_171009_221598\brfss_200pct.parquet,7866515,19
+3.0,1373010,c:\Users\hugov\Documents\EPITA\Santé\CHP\projet\data\processed\benchmark_20261004_171009_221598\brfss_300pct.parquet,11798909,28
